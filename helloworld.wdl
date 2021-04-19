@@ -4999,8 +4999,6 @@ version 1.0
 # just a comment to increase the size of the WDL file for testing the limit of indexing in Dockstore
 # just a comment to increase the size of the WDL file for testing the limit of indexing in Dockstore
 # just a comment to increase the size of the WDL file for testing the limit of indexing in Dockstore
-# just a comment to increase the size of the WDL file for testing the limit of indexing in Dockstore
-# just a comment to increase the size of the WDL file for testing the limit of indexing in Dockstore
 
 # just a comment to increase the size of the WDL file for testing the limit of indexing in Dockstore
 # just a comment to increase the size of the WDL file for testing the limit of indexing in Dockstore
