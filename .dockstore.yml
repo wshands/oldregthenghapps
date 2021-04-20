@@ -4,8 +4,4 @@ workflows:
      primaryDescriptorPath: /helloworld.wdl
      testParameterFiles:
          - /helloworld.wdl.json
-   - name: secondwdl
-     subclass: wdl
-     primaryDescriptorPath: /helloworld2.wdl
-     testParameterFiles:
-         - /helloworld.wdl.json
+
